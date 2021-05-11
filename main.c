@@ -1,6 +1,5 @@
 #include "stdio.h"
-
-int add(int x, int y);
+#include "main.h"
 
 int main()
 {
