@@ -1,5 +1,6 @@
 # cmake helloworld for kythe example
 it only contains 3 c++ source files and one CmakeList.txt to tell cmake how to compile it.
+
 main.c main.h math.c
 
 steps:
